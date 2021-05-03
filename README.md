@@ -1,6 +1,6 @@
 # Cystic fibrosis–related diabetes onset can be predicted using biomarkers measured at birth
 
-This is the public repository for the paper "Cystic fibrosis–related diabetes onset can be predicted using biomarkers measured at birth" (https://www.nature.com/articles/s41436-020-01073-x). The corresponding Shiny app can be accessed through .
+This is the public repository for the paper "Cystic fibrosis–related diabetes onset can be predicted using biomarkers measured at birth" (https://www.nature.com/articles/s41436-020-01073-x). The corresponding Shiny app can be accessed through https://statsgene.shinyapps.io/CFRDPredict/.
 
 Abstract
 
